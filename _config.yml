@@ -67,7 +67,7 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # -----------------------------------------------------------------------------
 
 blog_name: P Mistani  # your blog must have a name for it to show up in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_description: Some blog posts on inspiring topics
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -75,7 +75,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: pouria # put your disqus shortname
 
 # -----------------------------------------------------------------------------
 # Collections
